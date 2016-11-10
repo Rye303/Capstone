@@ -1,5 +1,7 @@
 # Capstone - Phone APP
 
+Extract Files to C:\Users\YOURNAMEHERE\AndroidStudioProjects\Capstone_V1
+
 Capstone Phone App:
 Version 1.1
 Nov 10, 2016
