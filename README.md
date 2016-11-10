@@ -1,4 +1,4 @@
-# Capstone
+# Capstone - Phone APP
 
 Capstone Phone App:
 Version 1.1
