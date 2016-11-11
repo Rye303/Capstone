@@ -15,7 +15,9 @@ Button on the Overview of data sent page enables user to go back to main screen 
 
 Needs:
 Drag and drop / menu items for location
+
 send data to Pi
+
 Receive data from Pi
 
 
