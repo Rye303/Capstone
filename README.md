@@ -1,4 +1,4 @@
-# Capstone - Phone APP
+# Capstone - Phone APP (OUTDATED new app to come)
 
 Extract Files to C:\Users\YOURNAMEHERE\AndroidStudioProjects\Capstone_V1
 
